@@ -29,5 +29,12 @@ You can create, erase, save and convert text bettween html notation and the simp
 
 This markdown editor woks like this readme file.
 
+##Demo
+## Translation
+
+  This style guide is also available in other languages:
+
+  - ![Demo](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Indonesia.png) **Bahasa Indonesia**: [mazipan/css-style-guide](https://github.com/mazipan/css-style-guide)
+
 Thanks for all, sincerely,
 Ulisses Mercado
